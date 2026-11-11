@@ -1,4 +1,3 @@
-this is my student management project
-
+this is my student and library management systems
 
 
